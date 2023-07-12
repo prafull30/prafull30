@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prafull30
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on web development project
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning Python and SQL
+- 💞️ I’m looking to collaborate on Data Analyst project
 - 📫 you can reach me via parfull66@gmail.com
 
 <!---
